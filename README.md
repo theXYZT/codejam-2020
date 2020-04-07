@@ -1,4 +1,4 @@
-# Google Code Jam 2020 Solutions
+# Google Code Jam 2020 ![License](https://img.shields.io/github/license/theXYZT/codejam-2020)
 
 My solutions to [Google Code Jam 2020](https://codingcompetitions.withgoogle.com/codejam/archive/2020) problems. All solutions are written in **Python 3** and will solve all the test sets. The solutions are written to run successfully on the Code Jam platform, which includes the following libraries:
 
