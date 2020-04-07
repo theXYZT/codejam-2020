@@ -10,10 +10,10 @@ My solutions to [Google Code Jam 2020](https://codingcompetitions.withgoogle.com
 
 ## [Qualification Round](https://codingcompetitions.withgoogle.com/codejam/round/000000000019fd27)
 
-| # | Problem | Solution |
-|---|---------|----------|
-| A | [Vestigium](https://codingcompetitions.withgoogle.com/codejam/round/000000000019fd27/000000000020993c) | [Solution](https://github.com/theXYZT/codejam-2020/blob/master/Qualification%20Round/vestigium.py) |
-| B | [Nesting Depth](https://codingcompetitions.withgoogle.com/codejam/round/000000000019fd27/0000000000209a9f) | [Solution](https://github.com/theXYZT/codejam-2020/blob/master/Qualification%20Round/nesting-depth.py) |
-| C | [Parenting Partnering Returns](https://codingcompetitions.withgoogle.com/codejam/round/000000000019fd27/000000000020bdf9) | [Solution](https://github.com/theXYZT/codejam-2020/blob/master/Qualification%20Round/parenting-partnering-returns.py) |
-| D | [ESAb ATAd](https://codingcompetitions.withgoogle.com/codejam/round/000000000019fd27/0000000000209a9e) | [Solution](https://github.com/theXYZT/codejam-2020/blob/master/Qualification%20Round/esab-atad.py) |
-| E | [Indicium](https://codingcompetitions.withgoogle.com/codejam/round/000000000019fd27/0000000000209aa0) | [Solution](https://github.com/theXYZT/codejam-2020/blob/master/Qualification%20Round/indicium.py) |
+| # | Problem | Solution | Notes |
+|---|---------|----------|-------|
+| A | [Vestigium](https://codingcompetitions.withgoogle.com/codejam/round/000000000019fd27/000000000020993c) | [Solution](https://github.com/theXYZT/codejam-2020/blob/master/Qualification%20Round/vestigium.py) |  |
+| B | [Nesting Depth](https://codingcompetitions.withgoogle.com/codejam/round/000000000019fd27/0000000000209a9f) | [Solution](https://github.com/theXYZT/codejam-2020/blob/master/Qualification%20Round/nesting-depth.py) |  |
+| C | [Parenting Partnering Returns](https://codingcompetitions.withgoogle.com/codejam/round/000000000019fd27/000000000020bdf9) | [Solution](https://github.com/theXYZT/codejam-2020/blob/master/Qualification%20Round/parenting-partnering-returns.py) |  |
+| D | [ESAb ATAd](https://codingcompetitions.withgoogle.com/codejam/round/000000000019fd27/0000000000209a9e) | [Solution](https://github.com/theXYZT/codejam-2020/blob/master/Qualification%20Round/esab-atad.py) |  |
+| E | [Indicium](https://codingcompetitions.withgoogle.com/codejam/round/000000000019fd27/0000000000209aa0) | [Solution](https://github.com/theXYZT/codejam-2020/blob/master/Qualification%20Round/indicium.py) |  |
