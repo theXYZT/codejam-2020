@@ -23,6 +23,6 @@ My solutions to [Google Code Jam 2020](https://codingcompetitions.withgoogle.com
 
 | # | Problem | Solution | Notes |
 |---|---------|----------|-------|
-| A | [Pattern Matching](https://codingcompetitions.withgoogle.com/codejam/round/000000000019fd74/00000000002b3034) | [Solution]() | |
-| B | [Pascal Walk](https://codingcompetitions.withgoogle.com/codejam/round/000000000019fd74/00000000002b1353) | [Solution]() | |
-| C | [Square Dance](https://codingcompetitions.withgoogle.com/codejam/round/000000000019fd74/00000000002b1355) | [Solution]() | |
+| A | [Pattern Matching](https://codingcompetitions.withgoogle.com/codejam/round/000000000019fd74/00000000002b3034) | [Solution](https://github.com/theXYZT/codejam-2020/blob/master/Round%201A/pattern-matching.py) | |
+| B | [Pascal Walk](https://codingcompetitions.withgoogle.com/codejam/round/000000000019fd74/00000000002b1353) | [Solution](https://github.com/theXYZT/codejam-2020/blob/master/Round%201A/pascal-walk.py) | |
+| C | [Square Dance](https://codingcompetitions.withgoogle.com/codejam/round/000000000019fd74/00000000002b1355) | [Solution](https://github.com/theXYZT/codejam-2020/blob/master/Round%201A/square-dance.py) | |
