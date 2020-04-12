@@ -17,3 +17,12 @@ My solutions to [Google Code Jam 2020](https://codingcompetitions.withgoogle.com
 | C | [Parenting Partnering Returns](https://codingcompetitions.withgoogle.com/codejam/round/000000000019fd27/000000000020bdf9) | [Solution](https://github.com/theXYZT/codejam-2020/blob/master/Qualification%20Round/parenting-partnering-returns.py) |  |
 | D | [ESAb ATAd](https://codingcompetitions.withgoogle.com/codejam/round/000000000019fd27/0000000000209a9e) | [Solution](https://github.com/theXYZT/codejam-2020/blob/master/Qualification%20Round/esab-atad.py) |  |
 | E | [Indicium](https://codingcompetitions.withgoogle.com/codejam/round/000000000019fd27/0000000000209aa0) | [Solution](https://github.com/theXYZT/codejam-2020/blob/master/Qualification%20Round/indicium.py) |  |
+
+
+## [Round 1A](https://codingcompetitions.withgoogle.com/codejam/round/000000000019fd74)
+
+| # | Problem | Solution | Notes |
+|---|---------|----------|-------|
+| A | [Pattern Matching](https://codingcompetitions.withgoogle.com/codejam/round/000000000019fd74/00000000002b3034) | [Solution]() | |
+| B | [Pascal Walk](https://codingcompetitions.withgoogle.com/codejam/round/000000000019fd74/00000000002b1353) | [Solution]() | |
+| C | [Square Dance](https://codingcompetitions.withgoogle.com/codejam/round/000000000019fd74/00000000002b1355) | [Solution]() | |
