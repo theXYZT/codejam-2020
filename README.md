@@ -26,3 +26,13 @@ My solutions to [Google Code Jam 2020](https://codingcompetitions.withgoogle.com
 | A | [Pattern Matching](https://codingcompetitions.withgoogle.com/codejam/round/000000000019fd74/00000000002b3034) | [Solution](https://github.com/theXYZT/codejam-2020/blob/master/Round%201A/pattern-matching.py) | |
 | B | [Pascal Walk](https://codingcompetitions.withgoogle.com/codejam/round/000000000019fd74/00000000002b1353) | [Solution](https://github.com/theXYZT/codejam-2020/blob/master/Round%201A/pascal-walk.py) | |
 | C | [Square Dance](https://codingcompetitions.withgoogle.com/codejam/round/000000000019fd74/00000000002b1355) | [Solution](https://github.com/theXYZT/codejam-2020/blob/master/Round%201A/square-dance.py) | |
+
+
+## [Round 1B](https://codingcompetitions.withgoogle.com/codejam/round/000000000019fef2)
+
+| # | Problem | Solution | Notes |
+|---|---------|----------|-------|
+| A | [Expogo](https://codingcompetitions.withgoogle.com/codejam/round/000000000019fef2/00000000002d5b62) | [Solution](https://github.com/theXYZT/codejam-2020/blob/master/Round%201B/expogo.py) | |
+| B | [Blindfolded Bullseye](https://codingcompetitions.withgoogle.com/codejam/round/000000000019fef2/00000000002d5b63) | [Solution](https://github.com/theXYZT/codejam-2020/blob/master/Round%201B/blindfolded-bullseye.py) | |
+| C | [Join the Ranks](https://codingcompetitions.withgoogle.com/codejam/round/000000000019fef2/00000000002d5b64) | [Solution]() | |
+
