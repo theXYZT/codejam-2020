@@ -34,5 +34,5 @@ My solutions to [Google Code Jam 2020](https://codingcompetitions.withgoogle.com
 |---|---------|----------|-------|
 | A | [Expogo](https://codingcompetitions.withgoogle.com/codejam/round/000000000019fef2/00000000002d5b62) | [Solution](https://github.com/theXYZT/codejam-2020/blob/master/Round%201B/expogo.py) | |
 | B | [Blindfolded Bullseye](https://codingcompetitions.withgoogle.com/codejam/round/000000000019fef2/00000000002d5b63) | [Solution](https://github.com/theXYZT/codejam-2020/blob/master/Round%201B/blindfolded-bullseye.py) | |
-| C | [Join the Ranks](https://codingcompetitions.withgoogle.com/codejam/round/000000000019fef2/00000000002d5b64) | [Solution]() | |
+| C | [Join the Ranks](https://codingcompetitions.withgoogle.com/codejam/round/000000000019fef2/00000000002d5b64) | [Solution](https://github.com/theXYZT/codejam-2020/blob/master/Round%201B/join-the-ranks.py) | |
 
