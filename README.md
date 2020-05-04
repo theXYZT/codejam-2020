@@ -36,3 +36,13 @@ My solutions to [Google Code Jam 2020](https://codingcompetitions.withgoogle.com
 | B | [Blindfolded Bullseye](https://codingcompetitions.withgoogle.com/codejam/round/000000000019fef2/00000000002d5b63) | [Solution](https://github.com/theXYZT/codejam-2020/blob/master/Round%201B/blindfolded-bullseye.py) | |
 | C | [Join the Ranks](https://codingcompetitions.withgoogle.com/codejam/round/000000000019fef2/00000000002d5b64) | [Solution](https://github.com/theXYZT/codejam-2020/blob/master/Round%201B/join-the-ranks.py) | |
 
+
+## [Round 1C](https://codingcompetitions.withgoogle.com/codejam/round/000000000019fef4)
+
+| # | Problem | Solution | Notes |
+|---|---------|----------|-------|
+| A | [Overexcited Fan](https://codingcompetitions.withgoogle.com/codejam/round/000000000019fef4/0000000000317409) | [Solution](https://github.com/theXYZT/codejam-2020/blob/master/Round%201C/overexcited-fan.py) | |
+| B | [Overrandomized](https://codingcompetitions.withgoogle.com/codejam/round/000000000019fef4/00000000003179a1) | [Solution](https://github.com/theXYZT/codejam-2020/blob/master/Round%201C/overrandomized.py) | |
+| C | [Oversized Pancake Choppers](https://codingcompetitions.withgoogle.com/codejam/round/000000000019fef4/00000000003172d1) | [Solution](https://github.com/theXYZT/codejam-2020/blob/master/Round%201C/oversized-pancake-choppers.py) | |
+
+
