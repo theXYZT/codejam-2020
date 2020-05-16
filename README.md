@@ -52,8 +52,8 @@ Some solutions may be too slow in Python 3 and might return a "Time Limit Exceed
 
 | # | Problem | Solution | Notes |
 |---|---------|----------|-------|
-| A | [Incremental House of Pancakes](https://codingcompetitions.withgoogle.com/codejam/round/000000000019ffb9/00000000003384ea) | [Python 3]() | |
-| B | [Security Update](https://codingcompetitions.withgoogle.com/codejam/round/000000000019ffb9/000000000033871f) | [Python 3]() | |
-| C | [Wormhole in One](https://codingcompetitions.withgoogle.com/codejam/round/000000000019ffb9/00000000003386d0) | [Python 3]() | |
-| D | [Emacs++](https://codingcompetitions.withgoogle.com/codejam/round/000000000019ffb9/000000000033893b) | [Python 3]() | |
+| A | [Incremental House of Pancakes](https://codingcompetitions.withgoogle.com/codejam/round/000000000019ffb9/00000000003384ea) | [Python 3](https://github.com/theXYZT/codejam-2020/blob/master/Round%202/incremental-house-of-pancakes.py) | |
+| B | [Security Update](https://codingcompetitions.withgoogle.com/codejam/round/000000000019ffb9/000000000033871f) | []() | |
+| C | [Wormhole in One](https://codingcompetitions.withgoogle.com/codejam/round/000000000019ffb9/00000000003386d0) | []() | |
+| D | [Emacs++](https://codingcompetitions.withgoogle.com/codejam/round/000000000019ffb9/000000000033893b) | []() | |
 
